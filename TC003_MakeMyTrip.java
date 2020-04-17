@@ -79,7 +79,8 @@ public class TC003_MakeMyTrip {
 		
 		//11 Click MORE OPTIONS link and Select 3Months plan and close
 		driver.findElement(By.xpath("//span[text()='MORE OPTIONS']")).click();
-		
+		driver.findElement(By.xpath("(//span[text()='SELECT'])[1]")).click();
+		driver.findElement(By.xpath("//span[@class='close']")).click();
 		//12 Click on BOOK THIS NOW
 		driver.findElement(By.id("detpg_headerright_book_now")).click();
 		
