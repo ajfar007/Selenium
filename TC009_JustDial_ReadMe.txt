@@ -1,0 +1,1 @@
+This test case is to automate the Just dial application and to read the phone number of service centers having rating more than 4.2 and votes more than 50 for a  particular car model
