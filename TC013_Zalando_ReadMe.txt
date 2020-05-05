@@ -1,0 +1,1 @@
+This test case is to automate the Zalando website and verify add to cart functions and customer care chat window functioning
