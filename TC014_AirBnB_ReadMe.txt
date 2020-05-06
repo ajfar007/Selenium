@@ -1,0 +1,1 @@
+This test case is to automate the airbnb website and navigate through boking pages and verify the dates and other details slected by the user
